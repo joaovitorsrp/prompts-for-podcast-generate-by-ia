@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-    preview do podcast
+    Capa do Podcast
 </p>
 
 <div align="center">
