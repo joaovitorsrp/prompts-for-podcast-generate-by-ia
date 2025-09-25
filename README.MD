@@ -68,8 +68,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 <p>
 
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
+
     <a 
         href="https://github.com/joaovitorsrp">
         GitHub
