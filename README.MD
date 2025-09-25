@@ -45,8 +45,8 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via ChatGPT
-- Audio gerado pela elevenLabs
-- GoogleGemini Para gerar capas
+- Audio gerado pela ElevenLabs
+- Gemini Para gerar capas
 - DaVinci Resolve para tratar aúdio e adicionar sons de fundo
 
 ## 📚 Materiais
@@ -66,28 +66,23 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ## 👨‍💻 Expert
 
-<p>
-
-
-    <a 
-        href="https://github.com/joaovitorsrp">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.linkedin.com/in/joão-vitor-silva-rodrigues-procópio-9b63971bb">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/joaovitor_srp">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
+<p>&nbsp&nbsp&nbspJoão Vitor Silva Rodrigues Procópio<br>
+&nbsp&nbsp&nbsp
+<a 
+    href="https://github.com/joaovitorsrp">
+    GitHub
+</a>
+&nbsp;|&nbsp;
+<a 
+    href="https://www.linkedin.com/in/joão-vitor-silva-rodrigues-procópio-9b63971bb">
+    LinkedIn
+</a>
+&nbsp;|&nbsp;
+<a 
+    href="https://www.instagram.com/joaovitor_srp">
+    Instagram
+</a>
+&nbsp;|&nbsp;</p>
 ---
 
 ⌨️ com 💜 por [João Vitor Silva Rodrigues Procópio](https://github.com/joaovitorsrp)
