@@ -35,7 +35,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [Google Gemini](gemini.google.com/?hl=pt-BR)
+- [Google Gemini](gemini.google.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [DaVinci Resolve](https://www.blackmagicdesign.com/br/products/davinciresolve)
 
