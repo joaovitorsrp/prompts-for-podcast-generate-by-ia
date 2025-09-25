@@ -43,15 +43,13 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - Roteiro gerado via ChatGPT
 - Audio gerado pela ElevenLabs
-- Gemini Para gerar capas
+- Capa gerada pelo Gemini
 - DaVinci Resolve para tratar aúdio e adicionar sons de fundo
 
 ## 📚 Materiais
 
-- [Link da live no Youtube](https://www.youtube.com)
 - [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
 - [Editor de aúdio](https://www.blackmagicdesign.com/br/products/davinciresolve)
-
 
 ## 🛠️ Instruções de execução
 
