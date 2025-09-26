@@ -57,7 +57,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - 🤖 2. Usei os prompts de roteiro gerados pelo ChatGPT no  `ElevenLabs`
 - 🤖 3. Usei os prompts de imagem no `Gemini`
 
-## 👨‍💻 Expert
+## 👨‍💻 Autor
 
 <p>&nbsp&nbsp&nbspJoão Vitor Silva Rodrigues Procópio<br>
 &nbsp&nbsp&nbsp
